@@ -38,7 +38,7 @@
 ### 🏅 Certificates
 - 정보처리기사 - HRDK - Pass (2024.09.)
 - SQLD (SQL Developer) - KData - Pass (2024.09.)
-- TOPCIT (Test Of Practical Competency in ICT) - IITP - 595 (2024.10.)
+- TOPCIT (Test Of Practical Competency in ICT) - IITP - 600 (2024.10.)
 - ADsP (Advanced Data Analytics Semi-Professional) – KData - Pass (2025.03.)
 
 <br>
